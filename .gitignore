@@ -1,0 +1,18 @@
+# Local Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local user data and secrets
+.local/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Locally generated model artifacts
+models/*.joblib
+
+# Research paper files contain author-identifying information
+/IJIREEICE.2026.14393-smart.pdf
+/paper_extracted.txt

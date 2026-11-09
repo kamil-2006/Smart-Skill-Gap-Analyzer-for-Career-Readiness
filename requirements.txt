@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+nltk
+beautifulsoup4
+requests
+matplotlib
+plotly
+python-docx
+PyPDF2
+joblib

@@ -1,0 +1,22 @@
+skill,title,provider,level,duration_hours,link
+python,Python for Everybody (Specialization),Coursera,Beginner,40,https://www.coursera.org/search?query=python%20for%20everybody
+python,Automate the Boring Stuff with Python,Online,Beginner,25,https://www.google.com/search?q=Automate+the+Boring+Stuff+with+Python
+sql,SQL for Data Science,Coursera,Beginner,20,https://www.coursera.org/search?query=sql%20for%20data%20science
+machine learning,Machine Learning (Andrew Ng),Coursera,Beginner,60,https://www.coursera.org/search?query=machine%20learning%20andrew%20ng
+scikit-learn,Hands-On ML with Scikit-Learn,Online,Intermediate,30,https://www.google.com/search?q=Hands-On+Machine+Learning+scikit-learn
+statistics,Statistics with Python,Online,Beginner,25,https://www.google.com/search?q=statistics+with+python+course
+data visualization,Data Visualization with Python,Online,Beginner,18,https://www.google.com/search?q=data+visualization+with+python+course
+react,React - The Complete Guide,Udemy,Beginner,40,https://www.google.com/search?q=react+the+complete+guide+course
+node.js,The Complete Node.js Developer Course,Udemy,Intermediate,35,https://www.google.com/search?q=complete+node.js+developer+course
+docker,Docker Essentials,Online,Beginner,12,https://www.google.com/search?q=docker+essentials+course
+kubernetes,Kubernetes Basics,Online,Intermediate,16,https://www.google.com/search?q=kubernetes+basics+course
+aws,AWS Cloud Practitioner Essentials,AWS,Beginner,12,https://www.google.com/search?q=aws+cloud+practitioner+essentials
+linux,Linux Command Line Basics,Online,Beginner,10,https://www.google.com/search?q=linux+command+line+basics+course
+git,Git and GitHub Basics,Online,Beginner,8,https://www.google.com/search?q=git+and+github+basics+course
+nlp,NLP with Python,Online,Intermediate,24,https://www.google.com/search?q=nlp+with+python+course
+pytorch,Deep Learning with PyTorch,Online,Intermediate,30,https://www.google.com/search?q=deep+learning+with+pytorch+course
+tensorflow,TensorFlow Developer Certificate,Online,Intermediate,35,https://www.google.com/search?q=tensorflow+developer+certificate+course
+communication,Effective Communication Skills,Online,Beginner,6,https://www.google.com/search?q=effective+communication+skills+course
+problem solving,Problem Solving and Critical Thinking,Online,Beginner,6,https://www.google.com/search?q=problem+solving+critical+thinking+course
+figma,Figma UI/UX Design Essentials,Udemy,Beginner,10,https://www.google.com/search?q=figma+ui+ux+design+essentials+course
+product management,Product Management Fundamentals,Online,Beginner,8,https://www.google.com/search?q=product+management+fundamentals+course

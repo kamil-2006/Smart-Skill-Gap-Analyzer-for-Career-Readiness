@@ -1,0 +1,137 @@
+[
+  {
+    "role": "Data Scientist",
+    "skills": [
+      "python",
+      "statistics",
+      "machine learning",
+      "pandas",
+      "numpy",
+      "sql",
+      "data visualization",
+      "scikit-learn",
+      "communication",
+      "problem solving"
+    ],
+    "description": "Analyze data, build predictive models, and communicate insights.",
+    "track": "Data & AI",
+    "demand": "High",
+    "avg_salary_usd": 130000
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": [
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "react",
+      "git",
+      "rest api"
+    ],
+    "description": "Build responsive, accessible user interfaces and integrate APIs.",
+    "track": "Engineering",
+    "demand": "High",
+    "avg_salary_usd": 115000
+  },
+  {
+    "role": "Backend Developer",
+    "skills": [
+      "node.js",
+      "express",
+      "sql",
+      "python",
+      "rest api",
+      "docker",
+      "git",
+      "linux",
+      "problem solving",
+      "communication"
+    ],
+    "description": "Design APIs, data storage, and scalable server-side systems.",
+    "track": "Engineering",
+    "demand": "High",
+    "avg_salary_usd": 125000
+  },
+  {
+    "role": "UI/UX Designer",
+    "skills": [
+      "figma",
+      "communication",
+      "problem solving",
+      "data visualization"
+    ],
+    "description": "Research, prototype, and design usable product experiences.",
+    "track": "Design",
+    "demand": "Medium",
+    "avg_salary_usd": 105000
+  },
+  {
+    "role": "DevOps Engineer",
+    "skills": [
+      "linux",
+      "git",
+      "docker",
+      "kubernetes",
+      "aws",
+      "azure",
+      "python",
+      "problem solving",
+      "communication"
+    ],
+    "description": "Automate deployment, infrastructure, and reliability.",
+    "track": "Infrastructure",
+    "demand": "High",
+    "avg_salary_usd": 135000
+  },
+  {
+    "role": "Product Manager",
+    "skills": [
+      "communication",
+      "problem solving",
+      "data visualization"
+    ],
+    "description": "Define product strategy, align stakeholders, and ship outcomes.",
+    "track": "Product",
+    "demand": "Medium",
+    "avg_salary_usd": 140000
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "skills": [
+      "python",
+      "machine learning",
+      "deep learning",
+      "scikit-learn",
+      "tensorflow",
+      "pytorch",
+      "docker",
+      "linux",
+      "git",
+      "rest api"
+    ],
+    "description": "Deploy and scale ML models in production.",
+    "track": "Data & AI",
+    "demand": "High",
+    "avg_salary_usd": 145000
+  },
+  {
+    "role": "NLP Engineer",
+    "skills": [
+      "python",
+      "nlp",
+      "machine learning",
+      "deep learning",
+      "statistics",
+      "pytorch",
+      "data visualization",
+      "git",
+      "linux",
+      "communication"
+    ],
+    "description": "Build NLP systems for text understanding and generation.",
+    "track": "Data & AI",
+    "demand": "High",
+    "avg_salary_usd": 150000
+  }
+]
